@@ -11,7 +11,7 @@ Here is a file description:
 
 * aux_fcts.R are differents stages of implementation of likelihood,gradient,hessian and Newton-Rhapson algorithm.
 * basics.R builds on aux_fcts.R: Cross-validation, Model selection by stepwise algorithm.
-* datagen.R generates
+* datagen.R generates data 
 * run.R and run.html are different runs of the algorithm and their profiling with profviz.
 
 
