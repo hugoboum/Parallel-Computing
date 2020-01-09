@@ -1,0 +1,8 @@
+"0","n=128"
+"0","k=5"
+"0",""
+"0","x=rep(0,n)"
+"0","ind = sample(1:n,k,replace = FALSE)"
+"0","x[ind] = (1:k)/k"
+"0",""
+"0","plot(x,type='h',main='original signal')"

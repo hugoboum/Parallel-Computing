@@ -1,0 +1,3 @@
+"0","xf = fft(x)"
+"0",""
+"0","plot(abs(xf),type='h',main='Fourier transform')"

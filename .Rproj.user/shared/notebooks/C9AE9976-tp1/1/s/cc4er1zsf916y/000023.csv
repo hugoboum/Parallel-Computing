@@ -1,0 +1,4 @@
+"0","ind = sample(1:n,length(x)/4,replace = FALSE)"
+"0","xfu = rep(0,n)"
+"0","xfu[ind] = xf[ind]"
+"0","plot(abs(xfu),type='h',main='Randomly Undersampled Fourier transform')"

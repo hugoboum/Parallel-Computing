@@ -1,0 +1,4 @@
+"0","ind = seq(1,n,4)"
+"0","xfu = rep(0,n)"
+"0","xfu[ind] = xf[ind]"
+"0","plot(abs(xfu),type='h',main='Undersampled Fourier transform')"

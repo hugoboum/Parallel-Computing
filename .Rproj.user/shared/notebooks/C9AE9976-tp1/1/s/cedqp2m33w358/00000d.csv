@@ -1,0 +1,2 @@
+"0","xh= fft(inverse = TRUE,xf) / length(xf)"
+"0","plot(abs(xh),type='h',main=""Inverse FT"")"

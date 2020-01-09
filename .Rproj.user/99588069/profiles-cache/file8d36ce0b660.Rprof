@@ -1,0 +1,7 @@
+memory profiling: GC profiling: line profiling: sample.interval=10000
+#File 1: ./aux_fcts_6.R
+#File 2: <expr>
+:730026:987565:41297032:83:"FUN" "lapply" "mclapply" 1#20 "hessian" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:730122:987565:41310584:9:"mcfork" "FUN" "lapply" "mclapply" 1#20 "hessian" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:730286:987565:41332872:16:"mcfork" "FUN" "lapply" "mclapply" 1#20 "hessian" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:730564:987565:41366304:24:"mcfork" "FUN" "lapply" "mclapply" 1#20 "hessian" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 

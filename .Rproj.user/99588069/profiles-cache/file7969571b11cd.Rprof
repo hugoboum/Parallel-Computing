@@ -1,0 +1,22 @@
+memory profiling: GC profiling: line profiling: sample.interval=10000
+#File 1: ./aux_fcts_2.R
+#File 2: <expr>
+:1783478:1727618:105805784:3010:1#62 "loglikl" 1#62 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1805689:1740485:111347712:1882:"cmpBuiltinArgs" "h" "tryInline" "cmpCall" "cmp" "cmpPrim1" "h" "tryInline" "cmpCall" "cmp" "cmpPrim2" "h" "tryInline" "cmpCall" "cmp" "cmpSymbolAssign" "h" "tryInline" "cmpCall" "cmp" "h" "tryInline" "cmpCall" "cmp" "genCode" "cmpfun" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "compiler:::tryCmpfun" 1#64 "hessian" 1#64 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1851363:1776460:117919816:1584:"nrow" 1#37 "gradient" 1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1908507:1816860:122194800:303:"solve.default" "solve" 1#65 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1994376:1878260:128645888:460:"matrix" 1#45 "hessian" 1#64 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2052196:1919460:132963432:311:1#26 "loglikl" 1#62 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2138590:1981060:139435744:462:1#26 "loglikl" 1#62 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2196213:2022060:143760344:306:1#38 "gradient" 1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2282206:2083460:150194912:462:1#26 "loglikl" 1#62 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2339360:2124060:154473648:304:"solve.default" "solve" 1#65 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2423612:2184460:160790840:452:1#38 "gradient" 1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2477142:2222460:164802120:284:1#49 "hessian" 1#64 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2555292:2278060:170661792:418:1#38 "gradient" 1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2607586:2315460:174571152:282:1#26 "loglikl" 1#62 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2686126:2371460:180455072:420:1#26 "loglikl" 1#62 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:2737276:2408060:184297456:272:1#49 "hessian" 1#64 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1783200:1737745:99930432:316:1#38 "gradient" 1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1844925:1781745:104554856:330:1#38 "gradient" 1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:1940493:1849745:111719104:511:1#63 "rhapson_newton" 2#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 

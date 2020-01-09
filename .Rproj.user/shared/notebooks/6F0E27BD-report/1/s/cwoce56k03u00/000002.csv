@@ -1,0 +1,8 @@
+"0","res <- microbenchmark(mmult(M1,M2),matmut(M1,M2), M1 %*% M2,times = 100000)"
+"0","res"
+"1","Unit: "
+"1",""
+"1","microseconds"
+"1",""
+"1","
+"

@@ -1,0 +1,2 @@
+"0","xu= fft(inverse = TRUE,xfu) / length(ind)"
+"0","plot(Re(xu),type='h',main=""Inverse FT Re"")"

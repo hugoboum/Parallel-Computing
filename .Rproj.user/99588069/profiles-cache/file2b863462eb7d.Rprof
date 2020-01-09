@@ -1,0 +1,11 @@
+memory profiling: GC profiling: line profiling: sample.interval=10000
+#File 1: <expr>
+:908085:1546773:57345400:1498:"%in%" "getInlineInfo" "tryInline" "cmpCall" "cmp" "cmpSymbolAssign" "h" "tryInline" "cmpCall" "cmp" "h" "tryInline" "cmpCall" "cmp" "genCode" "cmpfun" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "compiler:::tryCmpfun" 1#2 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+#File 2: ./aux_fcts_6.R
+:915922:1556362:59173352:480:"processID" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:916147:1556362:59208184:24:"mcfork" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:916147:1556362:59208184:0:"mcfork" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:916393:1556362:59241616:24:"mcfork" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:916475:1556362:59252760:8:"mcfork" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:916671:1556362:59275048:16:"mcfork" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
+:916773:1556362:59286864:8:"mcfork" "FUN" "lapply" "mclapply" 2#20 "hessian" 1#2 "force" "doTryCatch" "tryCatchOne" "tryCatchList" "doTryCatch" "tryCatchOne" "tryCatchList" "tryCatch" "profvis" 
